@@ -1,10 +1,15 @@
 {
   "versions": [
     {
-      "name": "v0.15.3",
+      "name": "v0.15.23",
       "description": "Son surum",
       "url": "https://www.nexusmods.com/fieldsofmistria/mods/645?tab=files&file_id=2931",
-      "filesize": 4732377
+      "filesize": 4732377,
+      "changelog": [
+        "Yeni ozellik eklendi",
+        "Hata duzeltmeleri yapildi",
+        "Performans iyilestirmeleri"
+      ]
     }
   ]
 }
