@@ -1,0 +1,10 @@
+{
+  "versions": [
+    {
+      "name": "v0.15.3",
+      "description": "Son surum",
+      "url": "https://example.com/download/v1.0.0",
+      "filesize": 4732377
+    }
+  ]
+}
