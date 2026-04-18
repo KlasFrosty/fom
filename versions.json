@@ -1,19 +1,10 @@
 {
   "versions": [
     {
-      "name": "v1.0.0 - Stable",
-      "description": "Kararlı sürüm",
-      "url": "https://example.com/download/v1.0.0"
+      "name": "v0.15.3 ",
+      "description": "Son sürüm",
+      "url": "https://example.com/download/v1.0.0",
+      "filesize": 102400
     },
-    {
-      "name": "v1.1.0 - Beta",
-      "description": "Beta sürüm, yeni özellikler",
-      "url": "https://example.com/download/v1.1.0"
-    },
-    {
-      "name": "v2.0.0 - Nightly",
-      "description": "En güncel, kararsız olabilir",
-      "url": "https://example.com/download/v2.0.0"
-    }
   ]
 }
